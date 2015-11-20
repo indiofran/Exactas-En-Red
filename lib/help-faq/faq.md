@@ -1,4 +1,4 @@
-¡Por que un Demo?
+¿Por que un Demo?
 ======
 
 En estos momentos la plataforma es una iniciativa del movimiento Exactas En Red. Como no es de uso oficial del CECEN (aunque nos gustaría que así fuese) estamos mostrando y probando como funcionaría si se usara de modo vinculante.
